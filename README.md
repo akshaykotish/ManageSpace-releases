@@ -28,7 +28,7 @@ Homebrew, pip and Chrome caches — never double-count, so the figures add up.
 
 | | |
 | --- | --- |
-| **macOS** | 11 Big Sur or later, Apple silicon and Intel. Signed with an Apple Developer ID but not yet notarised, so the first launch needs a right-click → **Open**. |
+| **macOS** | 11 Big Sur or later, Apple silicon and Intel. Signed with an Apple Developer ID and notarised by Apple — opens with a double-click, no warnings. |
 | **Windows** | 10 or later. The installer is unsigned — SmartScreen asks once; choose **More info → Run anyway**. The portable build needs no installation. |
 | **Linux** | Any modern 64-bit distribution. `chmod +x` the AppImage, or `sudo apt install ./managespace_1.0.0_amd64.deb`. |
 
